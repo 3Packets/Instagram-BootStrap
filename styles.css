@@ -1,0 +1,38 @@
+
+.post {
+	width: 500px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	margin-bottom: 50px;
+  
+  }
+  img {
+	width: 100%;
+  }
+  .container{
+	background-color: lightgrey;
+  }
+  .post-header{
+	display:flex;
+	
+  }
+  h4,p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+  }
+  h4{
+	margin-right: auto;
+  }
+  h1{
+	text-align: center;
+  }
+  p{
+    margin-right: auto;
+  }
+  .header{
+    margin-right:auto;
+  }
+  
